@@ -1,0 +1,21 @@
+.topHIc{
+    color: white;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    line-height: 30px;
+    border: 1px solid white;
+    -webkit-border-radius: 16px;
+    border-radius: 16px;
+    margin: 0 5px;
+}
+
+
+.main-menu-elem{
+    text-transform: uppercase;
+    color: #777777;
+    font-size: 15px;
+    padding: 8px 15px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}

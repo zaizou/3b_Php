@@ -1,0 +1,70 @@
+#mainToolbar{
+    background-color: #ffffff;
+}
+
+#mainMenu >li >a{
+    color: #000000;
+    font-size: large;
+}
+
+
+#topHead{
+    display: flex;
+    background-color: #008000;
+    min-height: 40px;
+}
+
+#topHead > div{
+    margin: auto;
+    background-color: #008000;
+}
+
+#topMenu > li  >a{
+    color: #000;
+    font-size: large;
+    background-color: inherit;
+}
+
+
+
+#showRoot{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+#infoRoot{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: inherit;
+
+}
+
+#infos-card{
+    height: 500px;
+}
+
+
+#showImageContainer{
+    height:400px;
+    display: inline-block;
+    justify-content: flex-start;
+
+
+
+
+    /*margin-top: 50vh;*/
+
+}
+
+#detailImg{
+
+}
+
+.fotorama{
+}
+
